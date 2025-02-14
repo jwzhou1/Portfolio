@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - Blake Zhou<br/>
-  <a href="https://blakezhou.vercel.app/" target="_blank">Blake Zhou</a>
+  <a href="https://blakezh0u.vercel.app/" target="_blank">Blake Zhou</a>
 </h2>
 
 <br/>
@@ -15,7 +15,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">Blake Zhou</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://blakezh0u.vercel.app/" target="_blank">Blake Zhou</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
