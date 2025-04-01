@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Tornado Prediction"
               description="I developed a Kalman-Convolutional BiLSTM with Multi-Head Attention model using the SHSR dataset from the MRMS system to enhance tornado prediction. This model outperforms KNN and LightGBM in accuracy, precision, recall, and F1-score while reducing false alarms. Future work explores expanded datasets, innovative architectures, and integrating large language models."
-              ghLink="https://doi.org/10.1177/187249812513313"
+              ghLink="https://journals.sagepub.com/doi/10.1177/18724981251331366"
                 />
           </Col>
         </Row>
