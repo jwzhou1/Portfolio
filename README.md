@@ -3,6 +3,12 @@
   <a href="https://blakezh0u.vercel.app/" target="_blank">Blake Zhou</a>
 </h2>
 
+<p align="center">
+  <strong>Author:</strong> Blake Zhou (jwzhou1)<br/>
+  <strong>Email:</strong> zhou.jiaw@northeastern.edu<br/>
+  <strong>Repository:</strong> 100% Original Work by Blake Zhou
+</p>
+
 <br/>
 
 <center>
