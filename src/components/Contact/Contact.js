@@ -23,7 +23,7 @@ function Contact() {
           }}>Get in touch</h3>
 
           {/* Contact Info in one line */}
-          <div style={{
+          <div className="contact-info" style={{
             display: 'flex',
             justifyContent: 'center',
             gap: '3rem',
