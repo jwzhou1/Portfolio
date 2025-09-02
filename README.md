@@ -292,24 +292,10 @@ vercel
 
 **📍 Location:** Vancouver, Canada
 **📧 Email:** zhou.jiaw@northeastern.edu
-**💼 Status:** Open to new opportunities
 **🎯 Interests:** Full-Stack Development, AI/ML, Data Science, Cloud Computing
 
 </div>
 
----
-
-## 🤝 Contributing
-
-While this is a personal portfolio, I welcome feedback and suggestions! Feel free to:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
----
 
 ## 📄 License
 
@@ -319,14 +305,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jwzhou1&color=6366f1&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-
-**⭐ Star this repository if you found it helpful!**
-**💼 Open to collaboration and new opportunities**
-**🚀 Let's build something amazing together!**
-
 </div>
 
 ---
